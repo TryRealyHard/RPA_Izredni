@@ -10,7 +10,7 @@ namespace Prva_vaja
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdravljen.");
+            Console.WriteLine("Pozdravljen uporabnik!");
             Console.Read();
         }
     }
