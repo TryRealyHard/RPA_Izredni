@@ -1,0 +1,8 @@
+D:\RPA_Izredni\Delegati\Delegati\bin\Debug\Delegati.exe.config
+D:\RPA_Izredni\Delegati\Delegati\bin\Debug\Delegati.exe
+D:\RPA_Izredni\Delegati\Delegati\bin\Debug\Delegati.pdb
+D:\RPA_Izredni\Delegati\Delegati\obj\Debug\Delegati.csproj.AssemblyReference.cache
+D:\RPA_Izredni\Delegati\Delegati\obj\Debug\Delegati.csproj.SuggestedBindingRedirects.cache
+D:\RPA_Izredni\Delegati\Delegati\obj\Debug\Delegati.csproj.CoreCompileInputs.cache
+D:\RPA_Izredni\Delegati\Delegati\obj\Debug\Delegati.exe
+D:\RPA_Izredni\Delegati\Delegati\obj\Debug\Delegati.pdb
