@@ -15,6 +15,18 @@ namespace Videoti.Controllers
     {
         private VideotiContext db = new VideotiContext();
 
+        //https://localhost:xxxxx/Films/Isci?niz=Grozljivka - primer rabe (prej narediše View).
+        public ActionResult Isci(string niz)
+        {
+            var filmi = from a in db.Films
+                        select a;
+            if (!String.IsNullOrEmpty(niz))
+            {
+                filmi = filmi.Where(a => a.Tip == niz);
+            }
+            return View(filmi);
+        }
+
         // GET: Films
         public ActionResult Index()
         {
