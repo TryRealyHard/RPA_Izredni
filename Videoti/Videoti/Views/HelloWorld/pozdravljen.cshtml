@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "pozdravljen";
+}
+
+<h2>pozdravljen</h2>
+<ul>
+    @for(int k=0; k<ViewBag.Num; k++) //@ pove, da je c# koda vse ostalo je HTML koda.
+            {
+                <li>@ViewBag.Message</li>
+            }
+</ul>
+
