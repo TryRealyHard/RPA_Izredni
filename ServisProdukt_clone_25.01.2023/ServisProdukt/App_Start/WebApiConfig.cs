@@ -19,6 +19,8 @@ namespace ServisProdukt
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+            //odstranimo izpis v Xml-ju
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
         }
     }
 }
