@@ -11,3 +11,16 @@ D:\RPAIzredni\KlicServisa\KlicServisa\obj\Debug\KlicServisa.csproj.CoreCompileIn
 D:\RPAIzredni\KlicServisa\KlicServisa\obj\Debug\KlicServisa.csproj.CopyComplete
 D:\RPAIzredni\KlicServisa\KlicServisa\obj\Debug\KlicServisa.exe
 D:\RPAIzredni\KlicServisa\KlicServisa\obj\Debug\KlicServisa.pdb
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\bin\Debug\KlicServisa.exe.config
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\bin\Debug\KlicServisa.exe
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\bin\Debug\KlicServisa.pdb
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\bin\Debug\Newtonsoft.Json.dll
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\bin\Debug\System.Net.Http.Formatting.dll
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\bin\Debug\Newtonsoft.Json.xml
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\bin\Debug\System.Net.Http.Formatting.xml
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\obj\Debug\KlicServisa.csproj.AssemblyReference.cache
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\obj\Debug\KlicServisa.csproj.SuggestedBindingRedirects.cache
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\obj\Debug\KlicServisa.csproj.CoreCompileInputs.cache
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\obj\Debug\KlicServisa.csproj.CopyComplete
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\obj\Debug\KlicServisa.exe
+D:\RPA_Izredni\KlicServisa_ConsoleApp_clone_25.01.2023\KlicServisa\obj\Debug\KlicServisa.pdb
