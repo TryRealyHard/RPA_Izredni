@@ -1,0 +1,50 @@
+﻿@model Listki.Models.Listk
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Listk</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Uporabniki.Ime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Uporabniki.Ime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Naslov)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Naslov)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Vsebina)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vsebina)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Datum_kreiranja)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Datum_kreiranja)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

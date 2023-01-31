@@ -1,0 +1,56 @@
+﻿@model Listki.Models.Listk
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Listk</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Uporabniki.Ime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Uporabniki.Ime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Naslov)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Naslov)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Vsebina)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vsebina)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Datum_kreiranja)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Datum_kreiranja)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
