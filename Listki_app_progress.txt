@@ -1,0 +1,12 @@
+Spletna aplikacija izredni -1.2.2023 (rok 14.2.2023)
+Izdelajte spletno aplikacijo. Vsebuje naj
+1. podatkovno bazo (uporabite model code first ali database first)
+2. možnost urejanja baze (vsaj en MVC kontroler)
+3. servis, ki vrača podatke v obliki JSON datoteke
+4. spremenjeno oblikovanje (bootstrap ne privzeti)
+
+Napredek do (31.01.2023):
+- Nov MVC .NET Framework
+- Code first pristop.
+- Dodal globalisation v BundleConfig.cs
+- Iz https://bootswatch.com/3/ prenesel in integriral temo "Paper"
